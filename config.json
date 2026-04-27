@@ -1,0 +1,23 @@
+{
+    "jira-url": "https://zyxelnetwork.atlassian.net",
+    "account": "gsbu-master@zyxel.com.tw",
+    "parent-SF": "SF-148",
+    "ELK-token": "",
+    "ES-url": "http://192.168.106.156:9201",
+    "optools-host": "52.212.207.213:4430/datecode-op-tool/page/index.html",
+    "optools-user": "sdwan-its@zyxel.com.tw",
+    "optools-pass": "eICOjGeR08MUR2ny",
+    "ftp-host": "210.59.249.203",
+    "ftp-user": "NT121058",
+    "ftp-pass": "Tw1841*****7",
+    "download-timeout": 360,
+    "download-retries": 3,
+    "download-retry-delay": 10,
+    "poll-interval": 15,
+    "poll-timeout": 360,
+    "sharepoint-url": "https://unizyx.sharepoint.com/:x:/s/GSBUAllmembers/IQCM4I7TC2-fS6vlCGlnfU7YAQbnupGcySbAh4MCS_PKtxQ?e=jmqmgc",
+    "daemon-whitelist": [
+          "W"
+      ],
+    "user-confirm": false
+}
